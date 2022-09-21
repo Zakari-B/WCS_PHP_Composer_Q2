@@ -1,0 +1,10 @@
+{
+    "name": "naoya/php_avance",
+    "description": "Quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
