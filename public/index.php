@@ -1,9 +1,8 @@
 <?php
 
 require '../vendor/autoload.php';
-require '../src/Wcs/Hello.php';
 
-use Wcs\Hello;
+use App\Wcs\Hello;
 
 $hello = new Hello;
 
